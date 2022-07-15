@@ -44,16 +44,18 @@ Learned the following concepts:
 
 ##### Software Engineering
 
-Did a web development project called CompFood, where the goal is to make an app that takes the prices of delivery apps,  compares it, and gives the cheapest one for the desired combination of food.
-
-Learned the following concepts:
-- JavaScript
-- Node.js
-- React.js
-- Express.js
-- Travis 
-- Agile
-- Docker
+CompFood - Web Development Project where the goal is to make an app that takes the prices of delivery apps, compares it, and gives the cheapest one for the desired combination of food. It used the following concepts:
+- Overall
+- - JavaScript
+- - Node.js
+- - Docker
+- - Agile
+- Frontend
+- - React.js
+- Backend
+- - Express.js
+- Testing
+- - Travis
 
 ##### Artificial Intelligence
 
