@@ -46,16 +46,18 @@ Learned the following concepts:
 
 CompFood - Web Development Project where the goal is to make an app that takes the prices of delivery apps, compares it, and gives the cheapest one for the desired combination of food. It used the following concepts:
 - Overall
-- - JavaScript
-- - Node.js
-- - Docker
-- - Agile
+  - JavaScript
+  - Node.js
+  - Docker
+  - Agile
 - Frontend
-- - React.js
+  - React.js
 - Backend
-- - Express.js
+  - Express.js
+- Database Integration
+  - MongoDB
 - Testing
-- - Travis
+  - Travis
 
 ##### Artificial Intelligence
 
