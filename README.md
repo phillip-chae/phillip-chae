@@ -57,7 +57,7 @@ CompFood - Web Development Project where the goal is to make an app that takes t
 - Database Integration
   - MongoDB
 - Testing
-  - Travis
+  - Travis CI
 
 ##### Artificial Intelligence
 
