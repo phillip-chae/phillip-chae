@@ -44,7 +44,7 @@ Learned the following concepts:
 
 ##### Software Engineering
 
-CompFood - Web Development Project where the goal is to make an app that takes the prices of delivery apps, compares it, and gives the cheapest one for the desired combination of food. It used the following concepts:
+[CompFood](https://github.com/software-assignments-fall2021/project-setup-xinhua-coherent-compfood) - Web Development Project where the goal is to make an app that takes the prices of delivery apps, compares it, and gives the cheapest one for the desired combination of food. It used the following concepts:
 - Overall
   - JavaScript
   - Node.js
