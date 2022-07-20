@@ -3,10 +3,11 @@
 ### Overview
 
 - 👋 Hi, I’m @phillip-chae
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in JavaScript
+- 🌱 I’m currently learning Node.js
+- 📫 How to reach me
+  - Phone: 703 850 6372
+  - Email: msc694@nyu.edu
 
 ### Coursework Assignments/Projects
 
